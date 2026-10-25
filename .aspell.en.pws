@@ -1,11 +1,18 @@
-personal_ws-1.1 en 10
+personal_ws-1.1 en 17
 AArch
+GDB
+GIC
 GLib
 GPL
 Mach
+MMIO
 QEMU
+QTest
+TCP
+UART
 gnumach
 libqtest
 microkernel
 precompiled
+submodule
 toolchain
