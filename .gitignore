@@ -1,0 +1,36 @@
+# Object files and dependencies
+*.o
+*.d
+*.a
+*.so
+
+# Executables and build output
+bin/
+build/
+test_*
+!tests/test_*.c
+tests/*.elf
+tests/*.bin
+tests/modules/*.elf
+tests/modules/*.bin
+
+# Test artifacts and temporary files
+*.sock
+*.log
+*.trs
+*.tmp
+
+# Editor and system artifacts
+*~
+.DS_Store
+tags
+TAGS
+
+# Miscellaneous
+.agents/
+AGENTS.md
+CONTEXT.md
+.contexts/
+.plans/
+PLAN.md
+README.md

@@ -1,0 +1,4 @@
+[submodule "gnumach"]
+	path = gnumach
+	url = https://github.com/aculnaig/gnumach.git
+	branch = aarch64
